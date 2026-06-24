@@ -3,8 +3,8 @@
 > An AI-powered ecological strategy platform built during a 2-month internship at [Ecologic.live](https://ecologic.live) as an AI Researcher.
 
 ## 🚀 Live Demo
-- **Frontend (Vercel):** `your-app.vercel.app`
-- **Backend (Render):** `your-api.onrender.com`
+- **Frontend (Vercel):** `https://ecologic-chi.vercel.app`
+- **Backend (Render):** `https://ecologic-re5g.onrender.com/docs`
 
 ## 🔥 52 Features
 
